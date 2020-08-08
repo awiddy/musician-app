@@ -1,3 +1,4 @@
+//Talks with data store in order to make requests including get, put, and delete
 const express = require('express');
 const router = express.Router();
 const bodyParser = require('body-parser');
